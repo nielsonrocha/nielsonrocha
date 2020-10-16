@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Sou Nielson Rocha e atuo na área de tecnologia da informação, com Arquitetura, análise e desenvolvimento de sistemas na plataforma Java, NodeJS e PHP, BI e BigData, DevOps.
+
+- 🔭 Atualmente trabalhando em projetos como Líder Técnico e Arquiteto
+
+[![Nielson Rocha github stats](https://github-readme-stats.vercel.app/api?username=nielsonrocha)](https://github.com/nielsonrocha/github-readme-stats)
